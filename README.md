@@ -62,7 +62,6 @@ I'm a passionate computer science student with a focus on software development, 
 
 - 📧 [saad220905@gmail.com](mailto:saad220905@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/saad220905)
-- 💻 [GitHub](https://github.com/Saad220905)
 
 
 <!--
